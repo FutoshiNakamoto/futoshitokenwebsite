@@ -1,3 +1,3 @@
-# Futoshi Token website
+# Futoshi Token Website
 
-code for <a href="https://futoshitoken.com" target="blank" rel="noopener noreferrer">FutoshiToken</a> website
+Code for [FutoshiToken](https://futoshitoken.com){:target="_blank"} website.
