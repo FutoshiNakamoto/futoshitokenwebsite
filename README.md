@@ -1,3 +1,13 @@
-# Futoshi Token Website
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
 
-Code for [FutoshiToken](https://futoshitoken.com){:target="_blank"} website.
+<h1>Futoshi Token Website</h1>
+<p>Code for <a href="https://futoshitoken.com" target="_blank" rel="noopener noreferrer">FutoshiToken</a> website.</p>
+
+</body>
+</html>
