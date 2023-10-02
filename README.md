@@ -7,7 +7,7 @@
 <body>
 
 <h1>Futoshi Token Website</h1>
-<p>Code for <a href="https://futoshitoken.com" target="_blank" rel="noopener noreferrer">FutoshiToken Test</a> website.</p>
+<p>Code for <a href="https://futoshitoken.com" target="_blank" rel="noopener noreferrer">FutoshiToken</a> website.</p>
 
 </body>
 </html>
